@@ -1,0 +1,99 @@
+.body {
+    background-color: beige;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 10%;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 10px;
+}   
+
+.row {
+    padding-top: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container-fluid { 
+    padding: 0;
+}
+
+#col1 {
+    background-color: #d7e1ee;
+    padding: 20px;
+}
+
+#col2 {
+    background-color: #cbd6e4;
+    padding: 20px;
+}
+
+#col3 {
+    background-color: #bfcbdb;
+    padding: 20px;
+}
+
+#col4 {
+    background-color: #b3bfd1;
+    padding: 20px;
+}
+
+#col5 {
+    background-color: #a4a2a8;
+    padding: 20px;
+}
+
+#col6 {
+    background-color: #54504c;
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.76);
+}
+
+#col7 {
+    background-color: #474440;
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.76);
+}
+
+#col8 {
+    background-color: #3b3734;
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.76);
+}
+
+#col9 {
+    background-color: #df8879;
+    padding: 20px;
+}
+
+#col10 {
+    background-color: #c86558;
+    padding: 20px;
+}
+
+#col11 {
+    background-color: #b04238;
+    padding: 20px;
+}
+
+#col12 {
+    background-color: #991f17;
+    padding: 20px;
+}
+
+.col-8 {
+    background-color: yellow;
+}
+
+.col-4 {
+    background-color: orange;
+}
